@@ -2,6 +2,10 @@
 
 Este proyecto fue creado con el comando npx create-react-app para inicial una estructura funcional de react.
 
+## Proyecto en vivo
+
+Actualmente se puede ver el proyecto funcionando en el siguiente link [https://crgarcia8.github.io/TestBold/](https://crgarcia8.github.io/TestBold/)
+
 ## Scripts disponibles
 
 En este proyecto puedes ejecutar
