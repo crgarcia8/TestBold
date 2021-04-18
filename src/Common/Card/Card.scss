@@ -1,0 +1,18 @@
+@import '../../mystyles.scss';
+
+.card-header {
+    background: $background;
+}
+.card-header-title {
+    color: #ffffff !important;
+}
+.headerTitle {
+    font-size: 25px;
+    color: $red;
+    font-weight: 800;
+}
+.iconInfo {
+    right: 20px;
+    cursor: pointer;
+    position: absolute;
+}

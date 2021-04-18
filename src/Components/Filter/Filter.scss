@@ -1,0 +1,22 @@
+@import "../../mystyles.scss";
+
+.tabs {
+    width: 70%;
+    @media screen and(max-width:570px) {
+        width: 100%;
+    }
+}
+.tabs ul{
+    padding: 0px 20px;
+    @media screen and(max-width: 570px){
+        padding: 0px 0px;
+    }
+}
+.tabs li {
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+.tabs.is-toggle li.is-active a {
+    background-color: $gray-light !important;
+    border-color: $gray-light !important;
+}

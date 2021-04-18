@@ -1,0 +1,39 @@
+@import '../../mystyles.scss';
+.panel-custom {
+    position: absolute;
+    z-index: 1;
+    width: 300px;
+    right: 28px;
+    background-color: white;
+    @media screen and(max-width:570px) {
+        top: 0px;
+        right: 0px;
+        height: 100%;
+    }
+}
+
+.panel-heading {
+    background: $background;
+    color:#ffffff;
+}
+@media screen and(max-width:570px) {
+    .panel-block-footer {
+        position: absolute;
+        bottom: 0px;
+        width: 90%;
+    }
+}
+
+.panel-heading {
+    margin: 0px;
+}
+.button {
+    float: right;
+}
+.is-hidden {
+    display: none;
+}
+.panel-heading {
+    text-align: center;
+    text-transform: uppercase;
+}

@@ -1,0 +1,142 @@
+[{
+    "id": "1",
+    "transaction": "Cobro exitoso",
+    "date": "04/01/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"datafono",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000
+},
+{
+    "id": "2",
+    "transaction": "Cobro exitoso",
+    "date": "04/02/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "3",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "4",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"datafono",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "5",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "6",
+    "transaction": "Cobro exitoso",
+    "date": "04/18/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"datafono",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "7",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"datafono",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "8",
+    "transaction": "Cobro exitoso",
+    "date": "04/18/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "9",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "10",
+    "transaction": "Cobro exitoso",
+    "date": "04/18/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"datafono",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "11",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "12",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+},
+{
+    "id": "13",
+    "transaction": "Cobro exitoso",
+    "date": "04/13/2021",
+    "time":"17:14:24",
+    "numberCard": "**** **** **** 7711",
+    "typePayment":"link",
+    "transactionIdBold": "GZEN237987YAGF",
+    "value": 25000,
+    "deduction":-1500
+}]

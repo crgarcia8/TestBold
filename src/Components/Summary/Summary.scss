@@ -1,0 +1,9 @@
+@import "../../mystyles.scss";
+.cardSummary {
+    width: 30%;
+    float: left;
+    text-align: center;
+    @media screen and(max-width:570px) {
+        width: 100%;
+    }
+}

@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+@import "bulma/sass/utilities/_all.sass";
+@import "bulma/sass/elements/_all.sass";
+@import "bulma/sass/grid/_all.sass";
+@import "bulma/sass/components/navbar.sass";
+@import "bulma/sass/components/panel.sass";
+@import "bulma/sass/components/tabs.sass";
+@import "bulma/sass/components/card.sass";
+
+$blue: #111e6c;
+$red: #ef434e;
+$gray-dark: #323232;
+$gray-light: #969696;
+
+$background: linear-gradient(90deg, $blue 0%, $red 200%);
+
+body {
+    font-family: "Monserrat", sans-serif;
+}
+
+.button.bold{
+    background-color: $red !important;
+    border: 0px !important;
+    color: #ffffff !important;
+    border-radius: 50px !important;
+}

@@ -1,0 +1,35 @@
+@import "../../mystyles.scss";
+
+header.main {
+    background: $background;
+    height: 80px;
+    margin-top: 0px;
+}
+.logo {
+    height: 70px;
+}
+
+.buttons {
+    float: right;
+    padding: 10px;
+}
+
+.is-ghost {
+    color: #ffffff !important;
+}
+.fa-question-circle {
+    margin-left: 5px;
+}
+
+@media screen and(max-width:480px) {
+    header.main {
+        height: 60px;
+        text-align: center;
+    }
+    .logo {
+        height: 60px;
+    }
+    .buttons {
+        display: none !important;
+    }
+}
