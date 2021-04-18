@@ -1,4 +1,6 @@
-# Proyecto creado con npx create-react-app
+# Proyecto para Prueba en Bold
+
+## Creado con npx create-react-app
 
 Este proyecto fue creado con el comando npx create-react-app para inicial una estructura funcional de react.
 
