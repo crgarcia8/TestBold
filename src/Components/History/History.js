@@ -42,14 +42,14 @@ export const History = (props) => {
                 dataResult = dataForFilter.filter(item => {
                     let startWeek = moment().startOf('isoWeek');
                     let weekOfItem = moment(new Date(item.date));
-                    return weekOfItem > startWeek;
+                    return weekOfItem > startWeek && weekOfItem <= moment(new Date());
                 })
                 break;
             case 'lastmonth':
                 dataResult = dataForFilter.filter(item => {
-                    let startMonth = moment().startOf('month').format("MM-DD-yyyy");
-                    let monthOfItem = moment(new Date(item.date)).format("MM-DD-yyyy")
-                    return monthOfItem >= startMonth;
+                    let startMonth = moment().startOf('month');
+                    let monthOfItem = moment(new Date(item.date))
+                    return monthOfItem >= startMonth && monthOfItem <= moment().endOf('month');
                 })
                 break;
             default:
@@ -71,7 +71,7 @@ export const History = (props) => {
     const showData = () => {
         if (data.length === 0) return <></>;
         const someFilterTypePayment = Object.values(filters.typePayment).some(item => item);
-        
+
         let dataResult = [];
         if (filters.date)
             dataResult = filterDataByDate(data);
