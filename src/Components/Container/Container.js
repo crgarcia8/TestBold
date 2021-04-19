@@ -1,4 +1,4 @@
-import './Container.scss';
+import './Container.css';
 import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
 import { Filter, History, Summary } from '..'

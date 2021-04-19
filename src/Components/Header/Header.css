@@ -1,7 +1,5 @@
-@import "../../mystyles.scss";
-
 header.main {
-    background: $background;
+    background: linear-gradient(90deg, #111e6c 0%, #ef434e 200%);
     height: 80px;
     margin-top: 0px;
 }

@@ -1,4 +1,4 @@
-import './FilterPanel.scss';
+import './FilterPanel.css';
 import React, { useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

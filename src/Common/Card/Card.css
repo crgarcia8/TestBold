@@ -1,7 +1,5 @@
-@import '../../mystyles.scss';
-
 .card-header {
-    background: $background;
+    background: linear-gradient(90deg, #111e6c 0%, #ef434e 200%);
 }
 .card-header-title {
     color: #ffffff !important;

@@ -1,6 +1,6 @@
 import { faQuestionCircle } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import './Header.scss';
+import './Header.css';
 
 const Header = () => {
   const handleOnClick = (event) => {

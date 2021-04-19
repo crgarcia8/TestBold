@@ -1,4 +1,4 @@
-import './Summary.scss';
+import './Summary.css';
 import React from 'react'
 import { monthNames } from '../../Utils/Constants';
 import { faInfoCircle } from '@fortawesome/free-solid-svg-icons';

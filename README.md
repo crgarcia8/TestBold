@@ -34,7 +34,7 @@ Pero para no utilizar los Media Querys de Bulma, no importé todo el css de Bulm
   Todos los elementos(Button, box, table, title ).
   y algunos componentes especificos(Navbar, panel, tabs, card)
   
-Con esto implementé media querys directamente en archivos .scss de cada componente que lo necesite.
+Con esto implementé media querys directamente en archivos .css de cada componente que lo necesite.
 
 Fuente utilizada: Monserrat
 

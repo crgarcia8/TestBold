@@ -1,4 +1,4 @@
-import './Tab.scss';
+import './Tab.css';
 import React from "react"
 import PropTypes from 'prop-types';
 

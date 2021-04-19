@@ -1,4 +1,4 @@
-import './History.scss';
+import './History.css';
 import React from 'react'
 import { useSelector } from 'react-redux'
 import { monthNames } from '../../Utils/Constants';
